@@ -1,0 +1,23 @@
+body {
+	font-family: 'Rubik', sans-serif;
+	background: linear-gradient(aqua, blue, rgb(91, 3, 255));
+	color: white;
+}
+
+.header_div {
+	background:linear-gradient(white, blue) ;
+}
+
+.header_div p {
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 1px;
+}
+
+.main_div button{
+	font-family: 'Poppins', sans-serif;
+	background-color: rgb(89, 0, 255);
+	margin-top: 40px;
+	border-color: rgb(89, 0, 255);
+	font-size: 20px;
+}
+
